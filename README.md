@@ -1,1 +1,1 @@
-It'smy first anmation in css
+It'smy first animation in css
